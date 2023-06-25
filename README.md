@@ -13,7 +13,9 @@ There are 3 types of retail stores that they have normally built in other cities
 The costs of building each of the stores are mentioned below.
 
 Standard Store: 15 crores
+
 Giant Multi-Storey Store: 35 crores
+
 24-hour Convenience Store: 9 crores
 
 The maximum number of stores they are planning to open is capped at 12.
